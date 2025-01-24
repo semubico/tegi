@@ -1,0 +1,20 @@
+{
+  "name": "tegi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semubico/tegi.git"
+  },
+  "keywords": [],
+  "author": "Semubico <emubico@protogen.engineering>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semubico/tegi/issues"
+  },
+  "homepage": "https://github.com/semubico/tegi#readme",
+  "description": ""
+}
